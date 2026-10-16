@@ -1,0 +1,340 @@
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T09:19:48.079Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T09:19:48.089Z"}
+{"level":"warn","message":"Authentication failed: jwt expired","timestamp":"2026-09-07T09:20:46.926Z"}
+{"level":"info","message":"User logged in successfully: 6a9d5fcdad707a4f6d4f9cf5","timestamp":"2026-09-07T09:21:01.117Z"}
+{"level":"info","message":"User authenticated successfully: 6a9d5fcdad707a4f6d4f9cf5","timestamp":"2026-09-07T09:21:21.080Z"}
+{"level":"info","message":"User logged out successfully: 6a9d5fcdad707a4f6d4f9cf5","timestamp":"2026-09-07T09:21:21.086Z"}
+{"level":"info","message":"Google login successful for existing user: 6a9d92717bd763c2a0d6b033","timestamp":"2026-09-07T09:21:48.782Z"}
+{"level":"info","message":"User authenticated successfully: 6a9d5fcdad707a4f6d4f9cf5","timestamp":"2026-09-07T09:22:16.161Z"}
+{"level":"info","message":"User logged out successfully: 6a9d5fcdad707a4f6d4f9cf5","timestamp":"2026-09-07T09:22:16.165Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T09:22:51.577Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T09:22:51.586Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:24:17.736Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:24:17.745Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:24:44.803Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:24:44.813Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:26:22.539Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:26:22.552Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:40:04.016Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:40:04.023Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:40:08.316Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:40:08.325Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:40:40.722Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:40:40.731Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:40:43.788Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:40:43.796Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:40:45.062Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:40:45.068Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:40:49.251Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:40:49.261Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:42:23.927Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:42:23.937Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:42:27.516Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:42:27.527Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:42:37.937Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:42:37.946Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:42:42.443Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:42:42.453Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:43:15.134Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:43:15.145Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:43:32.777Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:43:32.787Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:43:42.148Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:43:42.158Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:43:57.434Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:43:57.445Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:43:59.629Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:43:59.639Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:44:08.667Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:44:08.677Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:44:22.093Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:44:22.103Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:44:26.225Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:44:26.235Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:44:36.897Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:44:36.908Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:44:39.074Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:44:39.084Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:44:40.799Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:44:40.812Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:45:20.554Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:45:20.564Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:45:22.496Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:45:22.507Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T10:46:43.316Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T10:46:43.326Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:02:00.827Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-09-07T11:02:00.842Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:03:04.344Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-09-07T11:03:04.354Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:03:54.478Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-09-07T11:03:54.487Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:04:11.542Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:04:11.552Z"}
+{"level":"warn","message":"Authentication failed: jwt expired","timestamp":"2026-09-07T11:04:48.234Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:06:13.459Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:06:13.470Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:06:18.674Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:06:18.684Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:06:20.404Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:06:20.415Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:06:22.278Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:06:22.288Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:06:24.173Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:06:24.184Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:06:28.991Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:06:29.003Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:06:58.319Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:06:58.330Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:07:02.734Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:07:02.744Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:08:59.994Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:09:00.005Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:09:07.399Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:09:07.409Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:09:17.208Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:09:17.216Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:09:26.145Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:09:26.153Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:09:46.459Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:09:46.467Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:09:50.069Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:09:50.077Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:09:51.409Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:09:51.416Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:09:58.014Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:09:58.027Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:09:59.787Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:09:59.795Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:15:11.960Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:15:11.972Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:15:24.935Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:15:24.948Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:15:31.266Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:15:31.279Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:15:34.064Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:15:34.078Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:15:36.063Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:15:36.074Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:15:48.621Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:15:48.636Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:16:44.480Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:16:44.493Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:18:00.747Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:18:00.761Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:18:22.799Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:18:22.812Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:18:24.964Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:18:24.977Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:19:19.533Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:19:19.546Z"}
+{"level":"info","message":"User logged in successfully: 6a9d5fcdad707a4f6d4f9cf5","timestamp":"2026-09-07T11:19:47.044Z"}
+{"level":"info","message":"User authenticated successfully: 6a9d5fcdad707a4f6d4f9cf5","timestamp":"2026-09-07T11:19:53.765Z"}
+{"level":"info","message":"Tasks retrieved successfully for user: 6a9d5fcdad707a4f6d4f9cf5, count: 0","timestamp":"2026-09-07T11:19:53.814Z"}
+{"level":"info","message":"User authenticated successfully: 6a9d5fcdad707a4f6d4f9cf5","timestamp":"2026-09-07T11:19:55.890Z"}
+{"level":"info","message":"Tasks retrieved successfully for user: 6a9d5fcdad707a4f6d4f9cf5, count: 0","timestamp":"2026-09-07T11:19:55.898Z"}
+{"level":"warn","message":"Login attempt for already logged-in user: mostafasobhy465@gmail.com","timestamp":"2026-09-07T11:20:11.585Z"}
+{"level":"warn","message":"Login attempt for already logged-in user: mostafasobhy465@gmail.com","timestamp":"2026-09-07T11:20:14.273Z"}
+{"level":"warn","message":"Login attempt for already logged-in user: mostafasobhy465@gmail.com","timestamp":"2026-09-07T11:20:17.354Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:20:38.495Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:20:38.508Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:20:53.653Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:20:53.669Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:24:49.703Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:24:49.715Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:25:01.896Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:25:01.909Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:25:04.736Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:25:04.750Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:25:10.947Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:25:10.960Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:25:15.238Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:25:15.251Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:25:28.550Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:25:28.567Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:25:40.469Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:25:40.481Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:25:55.135Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:25:55.149Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:26:49.663Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:26:49.675Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:27:05.840Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:27:05.852Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:27:21.070Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:27:21.083Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:27:30.440Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:27:30.455Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:27:33.605Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:27:33.618Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:27:38.815Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:27:38.830Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:27:45.169Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:27:45.184Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:27:48.669Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:27:48.683Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:27:51.707Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:27:51.720Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:27:54.435Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:27:54.449Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:27:57.248Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:27:57.261Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:28:00.663Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:28:00.675Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:28:04.618Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:28:04.633Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:28:07.332Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:28:07.344Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:28:10.709Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:28:10.722Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:28:18.156Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:28:18.169Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:28:28.273Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:28:28.285Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:28:31.127Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:28:31.144Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:28:33.972Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:28:33.988Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:28:41.680Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:28:41.697Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:28:44.948Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:28:44.962Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:28:47.789Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:28:47.801Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:28:57.714Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:28:57.730Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:29:02.701Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:29:02.719Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-07T11:30:09.757Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-07T11:30:09.771Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T10:14:09.599Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T10:14:09.621Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T10:14:39.415Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T10:14:39.438Z"}
+{"level":"warn","message":"Authentication failed: jwt malformed","timestamp":"2026-09-08T10:18:28.915Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T10:22:42.406Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T10:22:42.416Z"}
+{"level":"warn","message":"Login attempt for already logged-in user: mostafasobhy465@gmail.com","timestamp":"2026-09-08T10:22:45.117Z"}
+{"level":"warn","message":"Login attempt for already logged-in user: mostafasobhy465@gmail.com","timestamp":"2026-09-08T10:23:07.185Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T10:23:50.481Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T10:23:50.496Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T10:24:10.821Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T10:24:10.834Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T10:24:14.623Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T10:24:14.632Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T10:24:17.053Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T10:24:17.061Z"}
+{"level":"info","message":"User logged in successfully: 6a9d5fcdad707a4f6d4f9cf5","timestamp":"2026-09-08T10:25:35.626Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T10:29:31.787Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T10:29:31.797Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T10:29:42.099Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T10:29:42.109Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T10:31:43.113Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T10:31:43.126Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T10:32:02.721Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T10:32:02.731Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T10:32:11.934Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T10:32:11.945Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T10:32:14.157Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T10:32:14.167Z"}
+{"level":"info","message":"User authenticated successfully: 6a9d5fcdad707a4f6d4f9cf5","timestamp":"2026-09-08T10:32:17.941Z"}
+{"level":"info","message":"User logged out successfully: 6a9d5fcdad707a4f6d4f9cf5","timestamp":"2026-09-08T10:32:17.980Z"}
+{"level":"info","message":"User logged in successfully: 6a9d5fcdad707a4f6d4f9cf5","timestamp":"2026-09-08T10:32:34.563Z"}
+{"level":"info","message":"User authenticated successfully: 6a9d5fcdad707a4f6d4f9cf5","timestamp":"2026-09-08T10:32:48.118Z"}
+{"level":"info","message":"User logged out successfully: 6a9d5fcdad707a4f6d4f9cf5","timestamp":"2026-09-08T10:32:48.143Z"}
+{"level":"warn","message":"Authentication failed: jwt malformed","timestamp":"2026-09-08T10:34:44.779Z"}
+{"level":"warn","message":"Authentication failed: jwt malformed","timestamp":"2026-09-08T10:38:58.293Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T11:00:47.825Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T11:00:47.834Z"}
+{"level":"info","message":"User logged in successfully: 6a9d5fcdad707a4f6d4f9cf5","timestamp":"2026-09-08T11:01:00.182Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T11:01:15.118Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T11:01:15.127Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T11:01:42.101Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T11:01:42.112Z"}
+{"level":"warn","message":"Authentication failed: secret or public key must be provided","timestamp":"2026-09-08T11:01:47.698Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T11:01:47.725Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T11:01:47.726Z"}
+{"level":"warn","message":"Authentication failed: secret or public key must be provided","timestamp":"2026-09-08T11:04:54.218Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T11:04:54.246Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T11:04:54.247Z"}
+{"level":"warn","message":"Authentication failed: secret or public key must be provided","timestamp":"2026-09-08T11:05:21.181Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T11:05:21.212Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T11:05:21.213Z"}
+{"level":"warn","message":"Authentication failed: secret or public key must be provided","timestamp":"2026-09-08T11:08:17.653Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T11:08:17.672Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T11:08:17.673Z"}
+{"level":"info","message":"User authenticated successfully: 6a9d5fcdad707a4f6d4f9cf5","timestamp":"2026-09-08T11:11:54.093Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T11:11:54.116Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T11:11:54.117Z"}
+{"level":"info","message":"User authenticated successfully: 6a9d5fcdad707a4f6d4f9cf5","timestamp":"2026-09-08T11:14:13.391Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T11:14:13.422Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T11:14:13.423Z"}
+{"level":"info","message":"User authenticated successfully: 6a9d5fcdad707a4f6d4f9cf5","timestamp":"2026-09-08T11:18:37.043Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T11:18:42.005Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T11:18:42.006Z"}
+{"level":"info","message":"User authenticated successfully: 6a9d5fcdad707a4f6d4f9cf5","timestamp":"2026-09-08T11:32:10.660Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T11:32:15.611Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T11:32:15.612Z"}
+{"level":"info","message":"User authenticated successfully: 6a9d5fcdad707a4f6d4f9cf5","timestamp":"2026-09-08T11:33:19.105Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T11:33:24.017Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T11:33:24.025Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T11:33:55.698Z"}
+{"level":"info","message":"User authenticated successfully: 6a9ff2a389ff63758f8f34bd","timestamp":"2026-09-08T11:33:55.751Z"}
+{"level":"info","message":"Task created successfully: 6a9ff2a389ff63758f8f34be by user: 6a9ff2a389ff63758f8f34bd","timestamp":"2026-09-08T11:33:55.781Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T11:33:55.811Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T11:33:55.811Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T11:34:35.073Z"}
+{"level":"info","message":"User authenticated successfully: 6a9ff2cb9611a42eb74e2247","timestamp":"2026-09-08T11:34:35.114Z"}
+{"level":"info","message":"Task created successfully: 6a9ff2cb9611a42eb74e2248 by user: 6a9ff2cb9611a42eb74e2247","timestamp":"2026-09-08T11:34:35.129Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T11:34:35.161Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T11:34:35.162Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T11:36:31.578Z"}
+{"level":"info","message":"User authenticated successfully: 6a9ff33f1db885ab8323f76d","timestamp":"2026-09-08T11:36:31.620Z"}
+{"level":"info","message":"Task created successfully: 6a9ff33f1db885ab8323f76e by user: 6a9ff33f1db885ab8323f76d","timestamp":"2026-09-08T11:36:31.635Z"}
+{"level":"info","message":"User authenticated successfully: 6a9ff33f1db885ab8323f76d","timestamp":"2026-09-08T11:36:31.663Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T11:38:35.297Z"}
+{"level":"info","message":"User authenticated successfully: 6a9ff3bb75aad31589ef3474","timestamp":"2026-09-08T11:38:35.339Z"}
+{"level":"info","message":"Task created successfully: 6a9ff3bb75aad31589ef3475 by user: 6a9ff3bb75aad31589ef3474","timestamp":"2026-09-08T11:38:35.355Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T11:38:35.383Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T11:38:35.384Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T12:02:09.215Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T12:02:09.227Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T12:02:56.311Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T12:02:56.322Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T12:03:13.664Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T12:03:13.677Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T12:03:53.468Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T12:03:53.478Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T12:03:59.610Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T12:03:59.620Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T12:04:08.973Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T12:04:08.982Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T12:05:02.460Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T12:05:02.470Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T12:05:07.099Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T12:05:07.109Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T12:05:12.115Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T12:05:12.124Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T12:05:34.317Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T12:05:34.332Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T12:05:48.489Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T12:05:48.500Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T12:05:52.246Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T12:05:52.258Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T12:05:54.006Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T12:05:54.016Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T12:05:59.130Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T12:05:59.139Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T12:06:02.800Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T12:06:02.809Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T12:06:04.783Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T12:06:04.792Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T12:06:08.176Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T12:06:08.186Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T12:06:11.312Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T12:06:11.321Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T12:06:14.072Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T12:06:14.082Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T12:06:24.893Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T12:06:24.903Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-09-08T15:56:05.878Z"}
+{"level":"info","message":"Server running on port 2005","timestamp":"2026-09-08T15:56:05.890Z"}

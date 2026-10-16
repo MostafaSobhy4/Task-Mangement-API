@@ -1,0 +1,42 @@
+{"level":"warn","message":"Authentication failed: jwt expired","timestamp":"2026-09-07T09:20:46.926Z"}
+{"level":"warn","message":"Authentication failed: jwt expired","timestamp":"2026-09-07T11:04:48.234Z"}
+{"level":"warn","message":"Login attempt for already logged-in user: mostafasobhy465@gmail.com","timestamp":"2026-09-07T11:20:11.585Z"}
+{"level":"warn","message":"Login attempt for already logged-in user: mostafasobhy465@gmail.com","timestamp":"2026-09-07T11:20:14.273Z"}
+{"level":"warn","message":"Login attempt for already logged-in user: mostafasobhy465@gmail.com","timestamp":"2026-09-07T11:20:17.354Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T10:14:09.599Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T10:14:09.621Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T10:14:39.415Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T10:14:39.438Z"}
+{"level":"warn","message":"Authentication failed: jwt malformed","timestamp":"2026-09-08T10:18:28.915Z"}
+{"level":"warn","message":"Login attempt for already logged-in user: mostafasobhy465@gmail.com","timestamp":"2026-09-08T10:22:45.117Z"}
+{"level":"warn","message":"Login attempt for already logged-in user: mostafasobhy465@gmail.com","timestamp":"2026-09-08T10:23:07.185Z"}
+{"level":"warn","message":"Authentication failed: jwt malformed","timestamp":"2026-09-08T10:34:44.779Z"}
+{"level":"warn","message":"Authentication failed: jwt malformed","timestamp":"2026-09-08T10:38:58.293Z"}
+{"level":"warn","message":"Authentication failed: secret or public key must be provided","timestamp":"2026-09-08T11:01:47.698Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T11:01:47.725Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T11:01:47.726Z"}
+{"level":"warn","message":"Authentication failed: secret or public key must be provided","timestamp":"2026-09-08T11:04:54.218Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T11:04:54.246Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T11:04:54.247Z"}
+{"level":"warn","message":"Authentication failed: secret or public key must be provided","timestamp":"2026-09-08T11:05:21.181Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T11:05:21.212Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T11:05:21.213Z"}
+{"level":"warn","message":"Authentication failed: secret or public key must be provided","timestamp":"2026-09-08T11:08:17.653Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T11:08:17.672Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T11:08:17.673Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T11:11:54.116Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T11:11:54.117Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T11:14:13.422Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T11:14:13.423Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T11:18:42.005Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T11:18:42.006Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T11:32:15.611Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T11:32:15.612Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T11:33:24.017Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T11:33:24.025Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T11:33:55.811Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T11:33:55.811Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T11:34:35.161Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T11:34:35.162Z"}
+{"level":"warn","message":"Authorization header missing","timestamp":"2026-09-08T11:38:35.383Z"}
+{"level":"warn","message":"Authentication failed: Unauthorized","timestamp":"2026-09-08T11:38:35.384Z"}
